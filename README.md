@@ -1,2 +1,2 @@
 # dataminingasg
-Data Mining Assignment
+Data Mining Assignment Part 1
